@@ -3,10 +3,9 @@
 ## Group Project - Trimester 2520
 
 ### Group Members:
-- [Student Name 1] - [Student ID 1]
-- [Student Name 2] - [Student ID 2]
-- [Student Name 3] - [Student ID 3]
-- [Student Name 4] - [Student ID 4]
+- LAKSMEN A/L SARAVANAN - 243UC247CS
+- RUBEN RAJ A/L THARMALINGAM - 243UC247DG
+- AARAN A/L RAGUPATHY - 251UC2519F
 
 ### Project Description
 This C++ program simulates a Grab e-hailing fare calculator based on Clayton Christensen's Disruptive Innovation model.
@@ -18,7 +17,7 @@ This C++ program simulates a Grab e-hailing fare calculator based on Clayton Chr
 - Professional user interface
 
 ### How to Run
-1. Compile the code: `g++ main.cpp -o grab_calculator`
-2. Run the program: `./grab_calculator`
+1. Compile the code: `g++ main.cpp -o grabehailing`
+2. Run the program: `./grabehailing`
 
 ### Git Development History
