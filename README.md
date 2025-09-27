@@ -17,7 +17,7 @@ This C++ program simulates a Grab e-hailing fare calculator based on Clayton Chr
 - Professional user interface
 
 ### How to Run
-1. Compile the code: `g++ main.cpp -o grabehailing`
+1. Compile the code: `g++ grabehailing.cpp -o grabehailing`
 2. Run the program: `./grabehailing`
 
 ### Git Development History
